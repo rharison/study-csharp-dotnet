@@ -8,10 +8,10 @@ namespace HelloWolrd
         {
             int varialTeste;
             bool VariavelBooleana = false;
-            varialTeste = 123;  
+            varialTeste = 123;
 
             if(VariavelBooleana == false) {
-                varialTeste = 765; 
+                varialTeste = 765;
             }
 
             var TesteInteger = 111;
