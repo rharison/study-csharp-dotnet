@@ -1,0 +1,9 @@
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb

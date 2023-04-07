@@ -4,10 +4,11 @@ D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetur
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\CsharpBasico\helloWorld\bin\Debug\netcoreapp3.1\HelloWolrd.runtimeconfig.dev.json
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\CsharpBasico\helloWorld\bin\Debug\netcoreapp3.1\HelloWolrd.dll
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\CsharpBasico\helloWorld\bin\Debug\netcoreapp3.1\HelloWolrd.pdb
-D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\CsharpBasico\helloWorld\obj\Debug\netcoreapp3.1\HelloWolrd.csprojAssemblyReference.cache
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\CsharpBasico\helloWorld\obj\Debug\netcoreapp3.1\HelloWolrd.AssemblyInfoInputs.cache
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\CsharpBasico\helloWorld\obj\Debug\netcoreapp3.1\HelloWolrd.AssemblyInfo.cs
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\CsharpBasico\helloWorld\obj\Debug\netcoreapp3.1\HelloWolrd.csproj.CoreCompileInputs.cache
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\CsharpBasico\helloWorld\obj\Debug\netcoreapp3.1\HelloWolrd.dll
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\CsharpBasico\helloWorld\obj\Debug\netcoreapp3.1\HelloWolrd.pdb
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\CsharpBasico\helloWorld\obj\Debug\netcoreapp3.1\HelloWolrd.genruntimeconfig.cache
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\CsharpBasico\helloWorld\obj\Debug\netcoreapp3.1\HelloWolrd.csproj.AssemblyReference.cache
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\CsharpBasico\helloWorld\obj\Debug\netcoreapp3.1\HelloWolrd.GeneratedMSBuildEditorConfig.editorconfig
