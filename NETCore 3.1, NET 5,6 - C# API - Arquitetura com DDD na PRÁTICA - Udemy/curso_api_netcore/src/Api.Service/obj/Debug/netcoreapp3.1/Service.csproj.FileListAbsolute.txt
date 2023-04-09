@@ -7,3 +7,8 @@ D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetur
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
