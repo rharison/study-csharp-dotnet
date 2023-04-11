@@ -65,3 +65,8 @@ D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetur
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\repos\personal\study-csharp-dotnet\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
