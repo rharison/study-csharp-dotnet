@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "13Mu9kWIIFZEWtKJv7vbxpUSWTsdj0y4Km/DVt63VJm2L75kWv74rDNJz7HdtcvGeKF1uSNMXRuY4aTMOkX9OQ==",
+  "dgSpecHash": "YEZX09OvErI+/mxofw34lM96KM3iK9w+TQdN6oA8frSURd9dOXREDhw496PVTXgFmrdtv3UL23a/vzoSpZEaGQ==",
   "success": true,
-  "projectFilePath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rhari\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\rhari\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

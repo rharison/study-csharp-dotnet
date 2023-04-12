@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Application\\application.csproj": {}
+    "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Application\\application.csproj": {}
   },
   "projects": {
-    "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Application\\application.csproj": {
+    "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Application\\application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Application\\application.csproj",
+        "projectUniqueName": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Application\\application.csproj",
         "projectName": "application",
-        "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Application\\application.csproj",
+        "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Application\\application.csproj",
         "packagesPath": "C:\\Users\\rhari\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Application\\obj\\",
+        "outputPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rhari\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,14 +25,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
+              "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
               },
-              "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               },
-              "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
+              "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -46,6 +46,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.5.1, )"
@@ -73,14 +77,14 @@
         }
       }
     },
-    "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\rhari\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rhari\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -94,14 +98,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
+              "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
               },
-              "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               },
-              "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
+              "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -139,14 +143,14 @@
         }
       }
     },
-    "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+    "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\rhari\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\obj\\",
+        "outputPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rhari\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -160,8 +164,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -215,14 +219,14 @@
         }
       }
     },
-    "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+    "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\rhari\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\obj\\",
+        "outputPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rhari\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -271,14 +275,14 @@
         }
       }
     },
-    "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
+    "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
+        "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\rhari\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\obj\\",
+        "outputPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rhari\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -292,11 +296,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
+              "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
               },
-              "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
