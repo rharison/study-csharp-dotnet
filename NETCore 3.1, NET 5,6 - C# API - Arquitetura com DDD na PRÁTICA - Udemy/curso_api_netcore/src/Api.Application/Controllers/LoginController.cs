@@ -4,12 +4,14 @@ using System.Threading.Tasks;
 using Api.Domain.Dtos;
 using Api.Domain.Interfaces.Services.User;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Api.Application.Controllers {
     [Route("api/[controller]")]
     [ApiController]
 
     public class LoginController : ControllerBase {
+        [AllowAnonymous]
         [HttpPost]
         public async Task<object> Login([FromBody] LoginDto loginDto, [FromServices] ILoginService service) {
             if(!ModelState.IsValid) return BadRequest(ModelState);
@@ -20,8 +22,7 @@ namespace Api.Application.Controllers {
                 if(result != null) return Ok(result);
 
                 return NotFound();
-            }
-            catch (ArgumentException ex) {
+            } catch (ArgumentException ex) {
                 return StatusCode((int) HttpStatusCode.InternalServerError, ex.Message);
             }
         }

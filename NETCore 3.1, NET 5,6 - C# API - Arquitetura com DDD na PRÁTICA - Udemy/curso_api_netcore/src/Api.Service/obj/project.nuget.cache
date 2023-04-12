@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rU9D5hT7SbAWjzVQWbyebvrNGVp6yshfJmLnG5UbfWju9yjvqAdbP+yTWU8dnMfgP9YTHYWK9mSVT5UVv+evfQ==",
+  "dgSpecHash": "MOBwJV43oFBrkGAH/UC8INUvBzhQz9FKET2iCRLhnae/YCKu/ZW9GB0F9tqzvux4haR8f4U96YkVtKFLYfgbPg==",
   "success": true,
-  "projectFilePath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
+  "projectFilePath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rhari\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\rhari\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

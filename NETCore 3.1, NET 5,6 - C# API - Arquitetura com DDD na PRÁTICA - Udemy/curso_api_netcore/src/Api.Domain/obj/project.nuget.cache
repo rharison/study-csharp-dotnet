@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U3/nuOmcc3p8ixKp2qOst5D0K0Uz22IrhKN/r0AstJoRmDXSJaj0XiiyTqKPaq4Jh1o18nNDdYIwoxndoUFNfQ==",
+  "dgSpecHash": "6AdZwZaHqoiEw6pBsuPgjqcD7BsrUtYZ4nyeLyjR3MO0k90mPrIsmrqqfikqhUjw7HHh/hQuA9TxJcZ8VtrWDg==",
   "success": true,
-  "projectFilePath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+  "projectFilePath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rhari\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\rhari\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",

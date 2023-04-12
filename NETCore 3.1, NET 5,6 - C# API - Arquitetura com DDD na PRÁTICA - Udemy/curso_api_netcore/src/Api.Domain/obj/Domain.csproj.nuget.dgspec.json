@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {}
+    "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {}
   },
   "projects": {
-    "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+    "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\rhari\\.nuget\\packages\\",
-        "outputPath": "d:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\obj\\",
+        "outputPath": "D:\\repos\\personal\\study-csharp-dotnet\\NETCore 3.1, NET 5,6 - C# API - Arquitetura com DDD na PRÁTICA - Udemy\\curso_api_netcore\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rhari\\AppData\\Roaming\\NuGet\\NuGet.Config"
